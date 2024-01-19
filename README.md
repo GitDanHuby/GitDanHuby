@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GitDanHuby
 - 👀 I’m interested in TI
-- 🌱 I’m currently learning Tecnologia 
+- 🌱 I’m currently learning computer science 
 - 💞️ I’m looking to collaborate on Creation
 - 📫 How to reach me nothing 
 - 😄 Pronouns: DannHub
