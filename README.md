@@ -2,7 +2,7 @@
 - 👀 I’m interested in TI
 - 🌱 I’m currently learning computer science 
 - 💞️ I’m looking to collaborate on Creation
-- 📫 How to reach me nothing 
+- 📫 How to reach me send me an email: dannieliradokr@gmail.com
 - 😄 Pronouns: DannHub
 - ⚡ Fun fact: nothing moment
 
