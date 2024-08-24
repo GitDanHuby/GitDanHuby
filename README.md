@@ -1,4 +1,7 @@
 # Olá, me chamo Daniel Assis ! 
+# Bem-vindo <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+I am a programming and IT support student
+
 ## Bem vindo ao meu perfil GitHub 👋
 
  ## Estou aprendendo
